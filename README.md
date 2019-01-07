@@ -18,3 +18,9 @@ note: implement logistic regression and apply it to two different datasets.
 2. neural networks prediction function
 
 note: implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
+
+## ex6
+1. support vector machines
+2. spam email classifier
+
+note: 1)using support vector machines (SVMs) to build a spam classifier; 2)use SVMs to build a spam filter.
