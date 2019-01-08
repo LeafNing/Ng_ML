@@ -19,6 +19,11 @@ note: implement logistic regression and apply it to two different datasets.
 
 note: implement one-vs-all logistic regression and neural networks to recognize hand-written digits.
 
+## ex4
+1. Neural Networks Learning
+
+note: implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
+
 ## ex6
 1. support vector machines
 2. spam email classifier
