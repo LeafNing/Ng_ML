@@ -24,6 +24,12 @@ note: implement one-vs-all logistic regression and neural networks to recognize 
 
 note: implement the backpropagation algorithm for neural networks and apply it to the task of hand-written digit recognition.
 
+## ex5
+1. Regularized Linear Regression
+2. Bias vs. Variance
+
+note: implement regularized linear regression and use it to study models with different bias-variance properties.
+
 ## ex6
 1. support vector machines
 2. spam email classifier
