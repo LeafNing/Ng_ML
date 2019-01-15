@@ -35,3 +35,9 @@ note: implement regularized linear regression and use it to study models with di
 2. spam email classifier
 
 note: 1)using support vector machines (SVMs) to build a spam classifier; 2)use SVMs to build a spam filter.
+
+## ex7
+1. K-means Clustering
+2. Principal Component Analysis
+
+note: 1)implement the K-means clustering algorithm and apply it to compress an image; 2)use principal component analysis to find a low-dimensional representation of face images.
